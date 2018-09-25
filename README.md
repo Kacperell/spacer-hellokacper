@@ -1,5 +1,8 @@
 # spacer-hellokacper
 
+Made with Course Hello Roman Vue  
+
+https://www.youtube.com/playlist?list=PLKnxnWdLGM49Lf7V-nl5zKf-JNMlZpACA
 ## Project setup
 ```
 npm install
